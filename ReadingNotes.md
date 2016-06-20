@@ -14,3 +14,20 @@ Benjamin Skrainka [5:24 PM]
 Here is a fabulous cheatsheet for git: http://ndpsoftware.com/git-cheatsheet/previous/git-cheatsheet.html
 
 Excellent talk on biases in web data — almost certainly a must watch: http://dsg.uwaterloo.ca/seminars/presentations/2015-16/16Apr18Ricardo.mp4
+
+typing.io
+Typing Practice for Programmers | typing.io
+Typing.io is a typing tutor for programmers. Practice typing the hard-to-reach symbols in code.
+
+
+Lucie Klimosova [9:03 AM]  
+Really nice writeup on the coin problem. Dynamic programming seems to be better answer than recursion: http://interactivepython.org/runestone/static/pythonds/Recursion/DynamicProgramming.html
+
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
+
+If you don't mind reading some R, here's a nice explanation of partial dependence plots: https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html
+
+https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016/info
+
+You can get a free draft copy of a book Andrew Ng is writing this summer here: http://www.mlyearning.org/
+ mlyearning.org
