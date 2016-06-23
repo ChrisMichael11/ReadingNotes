@@ -43,3 +43,5 @@ You can get a free draft copy of a book Andrew Ng is writing this summer here: h
  MongoDB Manual 3.2 Cursor Methods
 
  f anyone wants some more information on Naives Bayes here’s a pdf and a link to an article I found helpful. http://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
+
+ Decent explanation on lack of transitivity of correlation http://math.stackexchange.com/questions/605967/is-correlation-in-some-sense-transitive
