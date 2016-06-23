@@ -31,3 +31,15 @@ https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016/info
 
 You can get a free draft copy of a book Andrew Ng is writing this summer here: http://www.mlyearning.org/
  mlyearning.org
+
+
+ Michael Makris [10:53 AM]  
+ https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf
+
+ Miles Erickson [10:53 AM]  
+ https://docs.mongodb.com/manual/reference/method/js-cursor/
+  docs.mongodb.com
+ Cursor Methods — MongoDB Manual 3.2
+ MongoDB Manual 3.2 Cursor Methods
+
+ f anyone wants some more information on Naives Bayes here’s a pdf and a link to an article I found helpful. http://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
