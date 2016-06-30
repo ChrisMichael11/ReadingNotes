@@ -45,3 +45,15 @@ You can get a free draft copy of a book Andrew Ng is writing this summer here: h
  f anyone wants some more information on Naives Bayes here’s a pdf and a link to an article I found helpful. http://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 
  Decent explanation on lack of transitivity of correlation http://math.stackexchange.com/questions/605967/is-correlation-in-some-sense-transitive
+
+
+ Lucie Klimosova [1:43 PM]  
+ Speaking of the meaning of "opposite" and other relationships in natural language, this is quite interesting: https://www.distilled.net/resources/a-beginners-guide-to-word2vec-aka-whats-the-opposite-of-canada/ (edited)
+
+
+ Aaron Lichtner [1:58 PM]  
+ This is a really interesting and relevant article about netflix and how their recommendation system works. http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/
+
+
+Brian Mann [1:26 PM]  (netflix modeling)
+http://sifter.org/~simon/journal/20061211.html
