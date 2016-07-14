@@ -57,3 +57,6 @@ You can get a free draft copy of a book Andrew Ng is writing this summer here: h
 
 Brian Mann [1:26 PM]  (netflix modeling)
 http://sifter.org/~simon/journal/20061211.html
+
+From Spark Day:
+https://gist.github.com/MohamedAlaa/2961058
